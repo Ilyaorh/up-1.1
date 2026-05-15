@@ -43,7 +43,8 @@
 **Добавление данных**
 
 
-<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/e2e96ac9-ba1b-4f88-b096-ce94019febc0" />
+<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/1f40b087-32df-4a3c-9f59-d99fab1bbf9b" />
+
 
 
 ---
@@ -52,7 +53,9 @@
 **Удаление данных**
 
 
-<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/a3f16f51-7ffe-4ff4-8e51-9f274b894bcc" />
+<img width="760" height="409" alt="image" src="https://github.com/user-attachments/assets/c6e06706-531a-4942-9ed3-e7f2a8ff2a74" />
+
+
 
 
 ---
@@ -60,7 +63,8 @@
 **Изменение данных**
 
 
-<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/c806edca-3419-4daa-9ce4-58c28f7b0458" />
+<img width="767" height="415" alt="image" src="https://github.com/user-attachments/assets/abebab4e-49b9-43ac-9ee2-58b66045b86c" />
+
 
 
 
@@ -69,7 +73,9 @@
 **Сортировка данных**
 
 
-<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/532ea1e6-5068-43d4-bd82-f981bb1ae9a7" />
+<img width="692" height="375" alt="image" src="https://github.com/user-attachments/assets/36a80d11-b599-44b5-9e37-4d9dfbc89bbf" />
+
+
 
 
 
@@ -78,7 +84,8 @@
 **Поиск**
 
 
-<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/bd5c557e-69ea-48b5-b580-7c4f38c1883b" />
+<img width="606" height="328" alt="image" src="https://github.com/user-attachments/assets/f3f79308-bdc7-42f4-b39a-179a6c7a8c04" />
+
 
 
 
@@ -87,7 +94,8 @@
 **Обновление вывода**
 
 
-<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/183647fc-2f42-40f1-a86b-c9e208fc80f1" />
+<img width="761" height="411" alt="image" src="https://github.com/user-attachments/assets/8ca4a5b3-8657-4550-bb51-1c77f37db352" />
+
 
 
 ---
@@ -96,7 +104,9 @@
 
 **Результаты тестов:**
 
-<img width="710" height="740" alt="image" src="https://github.com/user-attachments/assets/8f027b75-8556-49f5-8974-bac1b5e864fe" />
+<img width="929" height="775" alt="image" src="https://github.com/user-attachments/assets/7967188d-e75e-475f-a426-4315d392b617" />
+
+
 
 ---
 
