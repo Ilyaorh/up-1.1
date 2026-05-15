@@ -46,7 +46,7 @@
 <img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/e2e96ac9-ba1b-4f88-b096-ce94019febc0" />
 
 
-
+---
 
 
 **Удаление данных**
@@ -55,7 +55,7 @@
 <img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/a3f16f51-7ffe-4ff4-8e51-9f274b894bcc" />
 
 
-
+---
 
 **Изменение данных**
 
@@ -64,7 +64,7 @@
 
 
 
-
+---
 
 **Сортировка данных**
 
@@ -73,7 +73,7 @@
 
 
 
-
+---
 
 **Поиск**
 
