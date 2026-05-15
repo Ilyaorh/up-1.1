@@ -88,7 +88,7 @@
 
 
 
-
+---
 
 
 **Обновление вывода**
@@ -104,7 +104,7 @@
 
 **Результаты тестов:**
 
-<img width="929" height="775" alt="image" src="https://github.com/user-attachments/assets/7967188d-e75e-475f-a426-4315d392b617" />
+<img width="900" height="740" alt="image" src="https://github.com/user-attachments/assets/7967188d-e75e-475f-a426-4315d392b617" />
 
 
 
