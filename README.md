@@ -53,7 +53,7 @@
 **Удаление данных**
 
 
-<img width="760" height="409" alt="image" src="https://github.com/user-attachments/assets/c6e06706-531a-4942-9ed3-e7f2a8ff2a74" />
+<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/c6e06706-531a-4942-9ed3-e7f2a8ff2a74" />
 
 
 
@@ -63,7 +63,7 @@
 **Изменение данных**
 
 
-<img width="767" height="415" alt="image" src="https://github.com/user-attachments/assets/abebab4e-49b9-43ac-9ee2-58b66045b86c" />
+<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/abebab4e-49b9-43ac-9ee2-58b66045b86c" />
 
 
 
@@ -73,7 +73,7 @@
 **Сортировка данных**
 
 
-<img width="692" height="375" alt="image" src="https://github.com/user-attachments/assets/36a80d11-b599-44b5-9e37-4d9dfbc89bbf" />
+<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/36a80d11-b599-44b5-9e37-4d9dfbc89bbf" />
 
 
 
@@ -84,7 +84,7 @@
 **Поиск**
 
 
-<img width="606" height="328" alt="image" src="https://github.com/user-attachments/assets/f3f79308-bdc7-42f4-b39a-179a6c7a8c04" />
+<img width="867" height="469" alt="image" src="https://github.com/user-attachments/assets/f3f79308-bdc7-42f4-b39a-179a6c7a8c04" />
 
 
 
@@ -94,7 +94,7 @@
 **Обновление вывода**
 
 
-<img width="761" height="411" alt="image" src="https://github.com/user-attachments/assets/8ca4a5b3-8657-4550-bb51-1c77f37db352" />
+<img width="761" height="469" alt="image" src="https://github.com/user-attachments/assets/8ca4a5b3-8657-4550-bb51-1c77f37db352" />
 
 
 
